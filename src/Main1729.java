@@ -13,7 +13,7 @@ import java.lang.Math;
 // Your work here. Just carete one class and one main function.
 public class Main1729{
     public static void main(String[] args){
-        int goal=87539319;
+        int goal=1729;
        int max_number=(int)Math.cbrt(goal);
 
        
